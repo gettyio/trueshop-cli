@@ -1,8 +1,8 @@
-# Trueshop CLI based on the awesome feathersjs-cli
+# Trueshop CLI 
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-cli.svg)](https://greenkeeper.io/)
 
-> The command line interface for Trueshop applications
+> The command line interface for Trueshop applications based on the awesome feathersjs-cli
 
 ## Installation
 

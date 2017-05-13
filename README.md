@@ -40,7 +40,7 @@ $ trueshop help
     -h, --help     output usage information
     -V, --version  output the version number
 
-$ feathers generate app
+$ trueshop generate app
 
 $ npm start
 ```

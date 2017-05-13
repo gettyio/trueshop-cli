@@ -1,22 +1,13 @@
-# Feathers CLI
+# Trueshop CLI based on the awesome feathersjs-cli
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-cli.svg)](https://greenkeeper.io/)
 
-> The command line interface for Feathers applications
-
-[![Build Status](https://img.shields.io/travis/feathersjs/feathers-cli/master.svg)](https://travis-ci.org/feathersjs/feathers-cli)
-[![Code Climate](https://img.shields.io/codeclimate/github/feathersjs/feathers-cli.svg)](https://codeclimate.com/github/feathersjs/feathers-cli)
-[![Test Coverage](https://codeclimate.com/github/feathersjs/feathers-cli/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/feathers-cli/coverage)
-[![Dependency Status](https://img.shields.io/david/feathersjs/feathers-cli.svg)](https://david-dm.org/feathersjs/feathers-cli)
-[![Download Status](https://img.shields.io/npm/dm/feathers-cli.svg)](https://www.npmjs.com/package/feathers-cli)
-[![Slack Status](http://slack.feathersjs.com/badge.svg)](http://slack.feathersjs.com)
-
-[![NPM](https://nodei.co/npm/feathers-cli.png?downloads=true&stars=true)](https://nodei.co/npm/feathers-cli/)
+> The command line interface for Trueshop applications
 
 ## Installation
 
 ```bash
-npm install -g feathers-cli
+npm install -g trueshop-cli
 ```
 
 ## Usage
@@ -26,7 +17,7 @@ $ mkdir myproject
 
 $ cd myproject
 
-$ feathers help
+$ trueshop help
 
   Usage: feathers generate [type]
 
@@ -34,7 +25,7 @@ $ feathers help
   Commands:
 
     generate [type]  Run a generator. Type can be
-      • app - Create a new Feathers application in the current folder
+      • app - Create a new Trueshop ecommerce in the current folder
       • authentication - Set up authentication for the current application
       • connection - Initialize a new database connection
       • hook - Create a new hook
@@ -56,7 +47,6 @@ $ npm start
 
 ## About
 
-Feathers CLI's generators are provided by [generator-feathers](https://github.com/feathersjs/generator-feathers) and [generator-feathers-plugin](https://github.com/feathersjs/generator-feathers-plugin).
 
 ## License
 

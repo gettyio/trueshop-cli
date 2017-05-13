@@ -19,7 +19,7 @@ $ cd myproject
 
 $ trueshop help
 
-  Usage: feathers generate [type]
+  Usage: trueshop generate [type]
 
 
   Commands:
@@ -31,7 +31,7 @@ $ trueshop help
       • hook - Create a new hook
       • middleware - Create an Express middleware
       • service - Generate a new service
-      • plugin - Create a new Feathers plugin
+      • plugin - Create a new Trueshop plugin
 
     *
 
